@@ -1,0 +1,33 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" fill="transparent"/>
+
+  <text x="400" y="320"
+        text-anchor="middle"
+        font-size="120"
+        font-family="Georgia, Times New Roman, serif"
+        font-weight="700"
+        fill="white">
+    Room
+  </text>
+
+  <text x="400" y="470"
+        text-anchor="middle"
+        font-size="120"
+        font-family="Georgia, Times New Roman, serif"
+        font-weight="700"
+        fill="white">
+    Scholars
+  </text>
+
+  <line x1="150" y1="560" x2="340" y2="560"
+        stroke="#D89B1D"
+        stroke-width="8"
+        stroke-linecap="round"/>
+
+  <circle cx="400" cy="560" r="12" fill="#D89B1D"/>
+
+  <line x1="460" y1="560" x2="650" y2="560"
+        stroke="#D89B1D"
+        stroke-width="8"
+        stroke-linecap="round"/>
+</svg>
